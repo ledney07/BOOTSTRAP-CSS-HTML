@@ -1,0 +1,38 @@
+@media (max-width: 1028px){
+    #title{
+        text-align: center;
+    }
+
+    .image-title{
+        padding: 20px 0;
+        position: static;
+        transform: rotate(0)
+    }
+
+    .carousel-item h2{
+        font-size: 2.2rem;
+    }
+
+
+    .press-logo{
+      width: 25%;
+      padding: 20px 20px 50px;
+      text-decoration: none;
+    }  
+    
+    #cta{
+        background-color: var(--secondary-color);
+        color: var(--primary-color);
+        text-align: center;
+        padding: 4.3rem 0;
+    }
+
+    #footer{
+        padding: 2rem;
+        text-align: center;
+    }
+
+    .footer i{
+        margin-right: 1rem;
+    }
+}
